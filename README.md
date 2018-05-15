@@ -24,7 +24,7 @@ This process essentially corresponds to computing the squared magnitude of the s
 
 Examples of Spectrograms generated are:
 
-![Spectrogram 1](spectrograms\digits_train_raw\nine_orig_2_spectrogram.png)
+![Spectrogram 1](spectrograms/digits_train_raw/nine_orig_2_spectrogram.png)
 
 ## Short Time Fourier Transform(STFT)
 
